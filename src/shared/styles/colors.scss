@@ -1,0 +1,21 @@
+$color1: #8a0a40;
+$color2: #f0f0fa;
+$color3: #f67e7d;
+$color4: #363537;
+$color5: #b80c09;
+$color6: #00984e;
+$color7: #004e98;
+$color8: #f8c009;
+
+:root {
+  --first-color: #{$color1};
+  --second-color: #{$color3};
+
+  --white-color: #{$color2};
+  --black-color: #{$color4};
+
+  --error-color: #{$color5};
+  --success-color: #{$color6};
+  --info-color: #{$color7};
+  --warning-color: #{$color8};
+}

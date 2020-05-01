@@ -1,3 +1,3 @@
-import BaseComponent from './components/BaseComponent'
+import ButtonComponent from './components/ButtonComponent'
 
-export { BaseComponent }
+export { ButtonComponent }

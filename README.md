@@ -2,7 +2,7 @@
 
 WineJS is a ReactJS Component Library developed to learn more about the technologies and process used.
 
-ReactJS, Typescript, Storybook, Rollup
+ReactJS, Typescript, Storybook, Rollup, Sass, Jest
 
 ## Usage
 

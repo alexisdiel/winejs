@@ -1,0 +1,19 @@
+@import "../shared/styles/colors.scss";
+
+button {
+  color: var(--white-color);
+  background-color: var(--first-color);
+
+  &.success {
+    background-color: var(--success-color);
+  }
+  &.error {
+    background-color: var(--error-color);
+  }
+  &.info {
+    background-color: var(--info-color);
+  }
+  &.warning {
+    background-color: var(--warning-color);
+  }
+}
